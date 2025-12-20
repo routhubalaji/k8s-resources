@@ -9,5 +9,5 @@ metadata:
     purpose: node-port
 spec:    
   containers:
-  -  name: nginx
-     image: nginx
+  - name: nginx
+    image: nginx
