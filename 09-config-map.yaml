@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-pod
+data:
+  Course: "DevSecOps With AWS"
+  Duration: "120Hrs"
+  Trainer: "Abcdef"
+    
